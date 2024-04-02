@@ -1,6 +1,6 @@
 MyInstance,localhost
 user, root
-myHost,127.0.0 .0.1.
+myHost,127.0.0.1.
 --pidfile="pidfile.sql"
 --socket="/home/bigmutha/.local/state/wireplumber"
 --port="22"
